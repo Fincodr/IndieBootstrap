@@ -1,0 +1,9 @@
+libs
+tmp
+dist
+xcode3
+xcode4
+vs201?
+*.idb
+*.pdb
+*.log
